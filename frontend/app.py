@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Circle
 import numpy as np 
 
-# Url of your hosted backend
+# Url of your Flask server
 URL = '' 
 
 st.title('Neural Network Visualizer')
