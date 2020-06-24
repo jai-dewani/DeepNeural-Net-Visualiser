@@ -1,5 +1,7 @@
-tensorflow==1.14.0
+tensorflow
 numpy==1.18.1
 json5==0.9.1
 Flask==1.1.1
-gunicorn
+# Used for deploying in Heroku
+# tensorflow==1.14.0 
+# gunicorn
