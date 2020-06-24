@@ -6,6 +6,9 @@ Trained a simple model with three layers on MNIST dataset and created an endpoin
 
 Used Streamlit to consume this API and display this data in an easy to understand and clean, usable frontend.
 
+It took me more time to host this project on the free tier of [Heroku](https://www.heroku.com/) then to make it, but it is now successfully hosted on Heroku. Check it out [here](https://visualize-neural-network.herokuapp.com/)
+
+> It might take a few second to load and generate the first output due to Heroku putting the containers to sleep after 30 minutes of inactivity
 
 ## Exploring file in the project
 `The files which have not been listed were used while deploying the project to Heroku and aren't of any importance while running the server locally`
