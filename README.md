@@ -1,4 +1,4 @@
-# Visualize-Neural-Networks
+# DeepNeural-Net-Visualiser
 
 My attempt at mixing my web dev knowledge with Machine Learning. Created a Neural Network Visualizer using [streamlit](https://www.streamlit.io/) :heart_eyes: and [Flask](https://pypi.org/project/Flask/)
 
