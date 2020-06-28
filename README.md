@@ -6,7 +6,7 @@ Trained a simple model with three layers on MNIST dataset and created an endpoin
 
 Used Streamlit to consume this API and display this data in an easy to understand and clean, usable frontend.
 
-It took me more time to host this project on the free tier of [Heroku](https://www.heroku.com/) then to make it, but it is now successfully hosted on Heroku. Check it out [here](https://visualize-neural-network.herokuapp.com/)
+It took me more time to host this project on the free tier of [Heroku](https://www.heroku.com/) then to make it, but it is now successfully hosted on Heroku. Check it out [here](https://visualize-neural-network.herokuapp.com/). I also wrote a blog on how I created my application, consider checking it out [here](https://blogs.jaid.tech/hosting-streamlit-and-flask-on-heroku/) :innocent:
 
 > It might take a few second to load and generate the first output due to Heroku putting the containers to sleep after 30 minutes of inactivity
 
