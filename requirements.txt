@@ -1,7 +1,10 @@
 tensorflow
-numpy==1.18.1
-json5==0.9.1
-Flask==1.1.1
+numpy
+json5
+Flask
+jsonschema
+streamlit
+matplotlib
 # Used for deploying in Heroku
 # tensorflow==1.14.0 
 # gunicorn
