@@ -1,3 +1,4 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/jai-dewani/deepneural-net-visualiser/app.py)
 # DeepNeural-Net-Visualiser
 
 My attempt at mixing my web dev knowledge with Machine Learning. Created a Neural Network Visualizer using [streamlit](https://www.streamlit.io/) :heart_eyes: and [Flask](https://pypi.org/project/Flask/)
